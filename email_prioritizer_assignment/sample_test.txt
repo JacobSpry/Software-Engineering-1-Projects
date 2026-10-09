@@ -1,0 +1,35 @@
+EMAIL OtherPerson,Weekly newsletter,01-05-2025
+EMAIL Peer,Lunch tomorrow?,01-06-2025
+EMAIL ImportantPerson,Contract renewal,01-07-2025
+EMAIL Subordinate,Project status update,01-08-2025
+EMAIL Boss,Quarterly review prep,
+EMAIL Boss,Board meeting notes,01-10-2025
+EMAIL Boss,Urgent budget question,01-04-2025
+EMAIL Subordinate,Vacation request,01-11-2025
+EMAIL Peer,Conference invite,01-01-2025
+EMAIL OtherPerson,Special offer inside,01-12-2025
+COUNT
+NEXT
+NEXT
+READ
+NEXT
+COUNT
+READ
+READ
+NEXT
+COUNT
+EMAIL ImportantPerson,Insurance deadline,01-13-2025
+NEXT
+COUNT
+READ
+READ
+READ
+READ
+READ
+READ
+COUNT
+NEXT
+READ
+NEXT
+READ
+COUNT
